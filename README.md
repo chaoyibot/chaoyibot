@@ -19,12 +19,20 @@
 
 ### 📦 AI 工具系列
 
+#### [deepseek-prompts-cn](https://github.com/chaoyibot/deepseek-prompts-cn) — DeepSeek 中文提示词宝典
+> 25+ 实测中文提示词模板：职场/自媒体/学习/编程/生活，复制即用，附带 CLI 搜索工具。
+> `Python` · 流量款项目
+
 #### [dsh-content-studio](https://github.com/chaoyibot/dsh-content-studio) — DeepSeek 内容自动化流水线
 > 一条命令：热点选题 → AI写作 → 原创化改写 → 批量导出。自媒体创作者省 90% 写作时间。
 > `Python` · 零依赖
 
 #### [ai-book-monetization](https://github.com/chaoyibot/ai-book-monetization) — AI 拆书变现方案生成器
 > 输入书稿 → 自动分类 → 变现矩阵 → 合规检查 → 定价交付 → 全套宣传物料。
+> `Python` · 零依赖
+
+#### [ai-drama-script](https://github.com/chaoyibot/ai-drama-script) — AI 短剧脚本生成器
+> 一句话故事概念 → 分集大纲 → 完整短剧脚本（场景/对白/钩子），爆款套路内建。
 > `Python` · 零依赖
 
 #### [afdian-donations](https://github.com/chaoyibot/afdian-donations) — 爱发电打赏监控工具
