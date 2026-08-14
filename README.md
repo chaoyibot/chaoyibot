@@ -51,6 +51,10 @@
 > 支持导出阅读量与评论数据，HTML 格式 100% 还原排版，支持 Docker / Cloudflare 部署。
 > 在线即用
 
+#### [sightflow-desktop-agent](https://github.com/chaoyibot/sightflow-desktop-agent) — AI 微信/企业微信自动回复助手
+> 截图感知 → VLM 视觉定位 → AI 自然回复 → RPA 自动执行。多角色话术模板一键切换，适配火山引擎 Coding Plan 免按量计费。
+> `Electron` · `TypeScript` · 桌面自动化
+
 ### 🎬 短剧与内容生成
 
 #### [dongge-drama-generator](https://github.com/chaoyibot/dongge-drama-generator) — 东哥短剧生成器
