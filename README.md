@@ -23,6 +23,10 @@
 > 25+ 实测中文提示词模板：职场/自媒体/学习/编程/生活，复制即用，附带 CLI 搜索工具。
 > `Python` · 流量款项目
 
+#### [ai-poster-generator](https://github.com/chaoyibot/ai-poster-generator) — AI 海报生成器
+> 输入主题 → AI 营销文案 + SVG 成品海报（3 版式 6 配色，零成本零依赖）。
+> `Python` · 内容链路补全
+
 #### [dsh-content-studio](https://github.com/chaoyibot/dsh-content-studio) — DeepSeek 内容自动化流水线
 > 一条命令：热点选题 → AI写作 → 原创化改写 → 批量导出。自媒体创作者省 90% 写作时间。
 > `Python` · 零依赖
